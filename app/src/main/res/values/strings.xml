@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Level 2 Task 1</string>
+    <string name="app_name">Level2Task1</string>
+    <string name="quiz_instr_header">Quiz!</string>
+    <string name="quiz_instr_description">To play the quiz,
+        tap to say the answer is true, long press to say the statement is false. Add more statements here:</string>
+    <string name="button_false">False</string>
+    <string name="button_true">True</string>
+    <string name="new_quiz_statement">Add statement text and choose whether this is true or false</string>
+    <string name="not_empty">Statement can\'t be empty!</string>
+    <string name="answer_is_true">Answer is indeed true, correct!</string>
+    <string name="answer_is_false">Answer is indeed false, correct!</string>
+    <string name="statement_false">Statement is false</string>
+    <string name="wrong_answer">Wrong answer!</string>
 </resources>
